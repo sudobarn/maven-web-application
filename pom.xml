@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Sudobarn Technologies Releases Nexus Repository</name>
-              <url> http://172.31.33.168:8081/repository/tesla-webapp_releases/</url> 
+              http://172.31.33.168:8081/repository/tesla-webapp-release/</url> 
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
               <name>Sudobarn Technologies Snapshot Nexus Repository </name>
-              <url>http://172.31.33.168:8081/repository/tesla-snapshots/</url>
+               http://172.31.33.168:8081/repository/tesla-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
